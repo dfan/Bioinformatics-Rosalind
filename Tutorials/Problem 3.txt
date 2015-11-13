@@ -1,0 +1,7 @@
+""" at indexes:
+85 90 170 177"""
+
+str ="w3K5x5E4bavJXsj7SU21yBeoKpcWj1M3AtqBlBPIl44Zl76vGfaUppQwwszCsEGlaSCyXF1rXWW0LiccIfQUcMyotisNXvsYw79Hi6LNInmCw9xQcdFd3NhitZl6GGKy38gXSOPYENDjdRT3sAbA0UT5Q6vQX7cuRrHsuk3CJskorschunKLO9."
+str2 = str[85:90] + str[170:177]
+print str2
+print str[85:91], str[170,177]

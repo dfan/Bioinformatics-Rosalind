@@ -1,0 +1,2 @@
+str = "TdI0bzhlcXsdbwXMUez2eNrVii7CHdQMbYR7M9HKMPxUuznMFdwJwL23AEym4Y4IlPxXCpqJewLMUUGxE4WrjtPantheraf7GeThtHXlmO9TRUUoRadspersus3n9bBZNSAyV5LTX6cJgJpmZH3O86RiziWPOK4eSxu6O3cT9RA2QtPQGLr67S."
+print str[86:94]+" "+str[113:122]
